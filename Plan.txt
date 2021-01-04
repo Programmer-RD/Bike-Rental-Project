@@ -1,0 +1,20 @@
+Options :
+    Rent a Bike :
+        Rent
+        Return(Different)
+        Price
+        Stock Check
+    Buy a Bike
+    A secret password :
+        Tell the stocks almost over
+        New ids
+        New Stock
+        Predict the stocks needed
+        Description
+        Stock
+        quit
+    Complain :
+        Telephone No :
+        Email
+    Instruments
+    quit
