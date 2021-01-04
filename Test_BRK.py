@@ -65,5 +65,6 @@ z = money(how_much_time=int(56), how_many_bike=int(5), how_many_kid=int(5),
           how_many_people=int(6)
           , age_adult=int(56), age_kid=int(11),
           money_type="$")
-# z.how_much_cost_calculations_Adults()
+z.how_much_cost_calculations_Adults()
 z.how_much_cost_calculations_Kids()
+#########
